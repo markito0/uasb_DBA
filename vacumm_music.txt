@@ -1,0 +1,279 @@
+INFO:  vacuuming "pg_catalog.pg_statistic"
+INFO:  "pg_statistic": found 0 removable, 418 nonremovable row versions in 21 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_type"
+INFO:  "pg_type": found 3 removable, 374 nonremovable row versions in 9 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_authid"
+INFO:  "pg_authid": found 0 removable, 8 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_class"
+INFO:  "pg_class": found 5 removable, 336 nonremovable row versions in 9 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_attribute"
+INFO:  "pg_attribute": found 24 removable, 2557 nonremovable row versions in 49 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_proc"
+INFO:  "pg_proc": found 0 removable, 2529 nonremovable row versions in 63 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_constraint"
+INFO:  "pg_constraint": found 0 removable, 22 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_inherits"
+INFO:  "pg_inherits": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_index"
+INFO:  "pg_index": found 1 removable, 131 nonremovable row versions in 3 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_operator"
+INFO:  "pg_operator": found 0 removable, 734 nonremovable row versions in 14 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_opfamily"
+INFO:  "pg_opfamily": found 0 removable, 77 nonremovable row versions in 2 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_opclass"
+INFO:  "pg_opclass": found 0 removable, 120 nonremovable row versions in 2 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_am"
+INFO:  "pg_am": found 0 removable, 5 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_amop"
+INFO:  "pg_amop": found 0 removable, 403 nonremovable row versions in 4 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_amproc"
+INFO:  "pg_amproc": found 0 removable, 291 nonremovable row versions in 3 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_language"
+INFO:  "pg_language": found 0 removable, 4 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_largeobject_metadata"
+INFO:  "pg_largeobject_metadata": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_database"
+INFO:  "pg_database": found 0 removable, 67 nonremovable row versions in 3 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_rewrite"
+INFO:  "pg_rewrite": found 0 removable, 111 nonremovable row versions in 12 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_trigger"
+INFO:  "pg_trigger": found 0 removable, 40 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_description"
+INFO:  "pg_description": found 0 removable, 3497 nonremovable row versions in 31 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_cast"
+INFO:  "pg_cast": found 0 removable, 196 nonremovable row versions in 2 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_enum"
+INFO:  "pg_enum": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_namespace"
+INFO:  "pg_namespace": found 0 removable, 6 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_conversion"
+INFO:  "pg_conversion": found 0 removable, 132 nonremovable row versions in 3 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_depend"
+INFO:  "pg_depend": found 14 removable, 6484 nonremovable row versions in 49 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_db_role_setting"
+INFO:  "pg_db_role_setting": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_tablespace"
+INFO:  "pg_tablespace": found 0 removable, 2 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_pltemplate"
+INFO:  "pg_pltemplate": found 0 removable, 8 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_auth_members"
+INFO:  "pg_auth_members": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_shdescription"
+INFO:  "pg_shdescription": found 0 removable, 3 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_ts_config"
+INFO:  "pg_ts_config": found 0 removable, 16 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_ts_config_map"
+INFO:  "pg_ts_config_map": found 0 removable, 304 nonremovable row versions in 2 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_ts_dict"
+INFO:  "pg_ts_dict": found 0 removable, 16 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_ts_parser"
+INFO:  "pg_ts_parser": found 0 removable, 1 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_ts_template"
+INFO:  "pg_ts_template": found 0 removable, 5 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_extension"
+INFO:  "pg_extension": found 0 removable, 1 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_foreign_data_wrapper"
+INFO:  "pg_foreign_data_wrapper": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_foreign_server"
+INFO:  "pg_foreign_server": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_foreign_table"
+INFO:  "pg_foreign_table": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_default_acl"
+INFO:  "pg_default_acl": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_seclabel"
+INFO:  "pg_seclabel": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_shseclabel"
+INFO:  "pg_shseclabel": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_range"
+INFO:  "pg_range": found 0 removable, 6 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_largeobject"
+INFO:  "pg_largeobject": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "information_schema.sql_languages"
+INFO:  "sql_languages": found 0 removable, 4 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "information_schema.sql_packages"
+INFO:  "sql_packages": found 0 removable, 10 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "information_schema.sql_sizing"
+INFO:  "sql_sizing": found 0 removable, 23 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "information_schema.sql_sizing_profiles"
+INFO:  "sql_sizing_profiles": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_attrdef"
+INFO:  "pg_attrdef": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_aggregate"
+INFO:  "pg_aggregate": found 0 removable, 121 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "public.album"
+INFO:  "album": found 0 removable, 306 nonremovable row versions in 3 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "public.genre"
+INFO:  "genre": found 0 removable, 25 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "information_schema.sql_features"
+INFO:  "sql_features": found 0 removable, 672 nonremovable row versions in 7 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_collation"
+INFO:  "pg_collation": found 0 removable, 269 nonremovable row versions in 9 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "information_schema.sql_parts"
+INFO:  "sql_parts": found 0 removable, 9 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "public.customer"
+INFO:  "customer": found 0 removable, 36 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "public.employee"
+INFO:  "employee": found 0 removable, 8 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "public.invoice"
+INFO:  "invoice": found 0 removable, 251 nonremovable row versions in 3 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "public.playlist"
+INFO:  "playlist": found 0 removable, 17 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "public.playlisttrack"
+INFO:  "playlisttrack": found 0 removable, 5941 nonremovable row versions in 27 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "public.track"
+INFO:  "track": found 0 removable, 2883 nonremovable row versions in 37 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_user_mapping"
+INFO:  "pg_user_mapping": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_event_trigger"
+INFO:  "pg_event_trigger": found 0 removable, 0 nonremovable row versions in 0 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "pg_catalog.pg_shdepend"
+INFO:  "pg_shdepend": found 8 removable, 105 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "information_schema.sql_implementation_info"
+INFO:  "sql_implementation_info": found 0 removable, 12 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "public.invoiceline"
+INFO:  "invoiceline": found 0 removable, 1107 nonremovable row versions in 8 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "public.artist"
+INFO:  "artist": found 0 removable, 244 nonremovable row versions in 2 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+INFO:  vacuuming "public.mediatype"
+INFO:  "mediatype": found 0 removable, 5 nonremovable row versions in 1 pages
+DETAIL:  0 dead row versions cannot be removed yet.
+CPU 0.00s/0.00u sec elapsed 0.00 sec.
+
+
+Total query runtime: 395 ms.
